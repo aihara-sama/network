@@ -1,0 +1,10 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "extend": ["eslint:recommended"],
+  "parserOptions": {
+    "tsconfigRootDir": "."
+  }
+}
